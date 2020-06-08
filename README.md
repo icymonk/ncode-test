@@ -8,13 +8,13 @@ node buildCartList1.js
 
 ```
 
-node buildCartList1.js
+node buildCartList2.js
 
 ```
 
 ```
 
-deno run --alow-read buildCartList3.ts
+deno run --allow-read buildCartList3.ts
 
 ```
 
