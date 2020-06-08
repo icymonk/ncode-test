@@ -3,19 +3,19 @@
 ## run
 
 ```
+deno run --allow-read buildCartList.ts
+```
+
+```
 node buildCartList1.js
 ```
 
 ```
-
 node buildCartList2.js
-
 ```
 
 ```
-
 deno run --allow-read buildCartList3.ts
-
 ```
 
 ## result
