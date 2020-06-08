@@ -1,0 +1,72 @@
+{
+  "cartList": [
+    {
+      "id": 1,
+      "brandName": "CELINE",
+      "checked": true,
+      "color": "WHITE",
+      "count": 3,
+      "discountPrice": 1441,
+      "flags": ["sales"],
+      "isLiked": undefined,
+      "name": "product5",
+      "price": 1505,
+      "productId": 5,
+      "productStockCount": 3,
+      "productStocks": [
+        {
+          "color": "WHITE",
+          "size": "250",
+          "count": 1
+        },
+        {
+          "color": "BLACK",
+          "size": "290",
+          "count": 1
+        },
+        {
+          "color": "BLACK",
+          "size": "280",
+          "count": 1
+        },
+        {
+          "color": "BLACK",
+          "size": "250",
+          "count": 1
+        },
+        {
+          "color": "WHITE",
+          "size": "270",
+          "count": 3
+        },
+        {
+          "color": "WHITE",
+          "size": "260",
+          "count": 1
+        },
+        {
+          "color": "BLACK",
+          "size": "270",
+          "count": 2
+        },
+        {
+          "color": "WHITE",
+          "size": "290",
+          "count": 1
+        },
+        {
+          "color": "BLACK",
+          "size": "260",
+          "count": 1
+        },
+        {
+          "color": "WHITE",
+          "size": "280",
+          "count": 3
+        }
+      ],
+      "size": "270",
+      "thumbnail": "thumbnail"
+    }
+  ]
+}

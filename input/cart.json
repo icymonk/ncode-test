@@ -1,0 +1,74 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "productId": 1,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "color": "WHITE",
+      "size": "250",
+      "count": 1
+    }
+  ]
+}

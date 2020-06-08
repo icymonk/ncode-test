@@ -1,0 +1,44 @@
+{
+  "like": [
+    {
+      "productId": 1,
+      "like": false
+    },
+    {
+      "productId": 2,
+      "like": false
+    },
+    {
+      "productId": 3,
+      "like": false
+    },
+    {
+      "productId": 4,
+      "like": false
+    },
+    {
+      "productId": 5,
+      "like": false
+    },
+    {
+      "productId": 6,
+      "like": false
+    },
+    {
+      "productId": 7,
+      "like": false
+    },
+    {
+      "productId": 8,
+      "like": false
+    },
+    {
+      "productId": 9,
+      "like": false
+    },
+    {
+      "productId": 10,
+      "like": false
+    }
+  ]
+}
